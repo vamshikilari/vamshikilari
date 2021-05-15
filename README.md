@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**vamshikilari/vamshikilari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a medical imaging software.
@@ -13,5 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: find a pullrequest that i contributed to, and request changes ⚡️
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: \__(- -)__/
--->
 
