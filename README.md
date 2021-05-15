@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about vector calculus, JS.
 - 📫 How to reach me: find a pullrequest that i contributed to, and request changes ⚡️
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: /\__(- -)__/\
+- ⚡ Fun fact: \\__(- -)__/
 
