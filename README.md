@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on DICOM rendering libraries based on JS.
 - 🤔 I’m looking for help with advanced algorithms, system design.
 - 💬 Ask me about vector calculus, JS.
-- 📫 How to reach me: find a pullrequest that i contributed to, and request changes ⚡️
+- 📫 How to reach me: e-mail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ¯\\\_(ツ)\_/¯
